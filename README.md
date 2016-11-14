@@ -204,6 +204,7 @@ For example, have the team pick one or more of the lenses above, and explore how
 * [Responsibility assignemtn matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
 * [RACIO](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix): Responsible, Accountable, Consultable, Informable, Omittable
 * [SIPOC](https://en.wikipedia.org/wiki/SIPOC): a tool that summarizes using supplier, input, process, output, customer.
+* [CTQ tree](https://en.wikipedia.org/wiki/CTQ_tree): ) are the key measurable characteristics of a product or process whose performance standards or specification limits must be met in order to satisfy the customer.
 * [SMART critera](https://en.wikipedia.org/wiki/SMART_criteria): Specific, Measurable, Achievable, Relevant, Timely
 * [TEAM interpersonal aims](https://github.com/joelparkerhenderson/team_focus): Talk, Evaluate, Assist, Motivate
 * [FOCUS analytical aims](https://github.com/joelparkerhenderson/team_focus): Frame, Organize, Collect, Understand, Synthesize
