@@ -99,19 +99,18 @@ The exercise idea: compare the agile manifest list of items with the organizatio
 
 We can use various "lenses" a.k.a. "perspectives" for assessment, comparisons, planning, and growth.
 
-ADKAR model of change management:
-* Awareness
-* Desire
-* Knowledge
-* Ability
-* Reinforcement
+Strategic Balanced Scorecard:
+* Create a a destination Statement.
+* Cover four areas: financial, internal, external, learning.
+* Define Objectives and Key Results (OKRs).
+* Define Key Performance Indicators (KPIs) and measure them.
 
-SMART objectives are:
-* Specific
-* Measurable
-* Achievable (a.k.a. Attainable, Agreed)
-* Relevant (a.k.a. Realistic, Responsible, Receivable)
-* Timely (a.k.a. Time-scoped, Time-boxed, Time-bound)
+RACIO responsibility assigment matrix:
+* Responsible
+* Accountable
+* Consultable
+* Informable
+* Omittable
 
 TEAM interpersonal aims:
 * Talk
@@ -126,18 +125,34 @@ FOCUS analytical aims:
 * Understand
 * Synthesize
 
-RACIO responsibility assigment matrix:
-* Responsible
-* Accountable
-* Consultable
-* Informable
-* Omittable
+ADKAR model of change management:
+* Awareness
+* Desire
+* Knowledge
+* Ability
+* Reinforcement
 
-Strategic Balanced Scorecard:
-* Create a a destination Statement.
-* Cover four areas: financial, internal, external, learning.
-* Define Objectives and Key Results (OKRs).
-* Define Key Performance Indicators (KPIs) and measure them.
+SMART objectives are:
+* Specific
+* Measurable
+* Achievable (a.k.a. Attainable, Agreed)
+* Relevant (a.k.a. Realistic, Responsible, Receivable)
+* Timely (a.k.a. Time-scoped, Time-boxed, Time-bound)
+
+Maturity model levels:
+* 0. No capability
+* 1. Initial capability
+* 2. Under development
+* 3. Defined
+* 4. Managed
+* 5. Optimized
+
+Maturity model categories:
+* People
+* Processes
+* Technology
+* Controls
+* Strategy
 
 Value Stream Mapping (VSM):
 * value-adding times a.k.a. the processes
