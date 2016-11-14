@@ -142,10 +142,10 @@ SMART objectives are:
 Maturity model levels:
 * 0. No capability
 * 1. Initial capability
-* 2. Under development
-* 3. Defined
-* 4. Managed
-* 5. Optimized
+* 2. Under development; core processes managed; vertical alignment.
+* 3. Defined; core processes integrated; horizontal alignment.
+* 4. Managed; enabling processes integrated; total alignment.
+* 5. Optimizing; processes are holistic.
 
 Maturity model categories:
 * People
@@ -233,3 +233,8 @@ For example, have the team pick one or more of the lenses above, and explore how
 * [Design for Six Sigma (DFSS)](https://en.wikipedia.org/wiki/Design_for_Six_Sigma)
 * [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)
 * [DMAIC](https://en.wikipedia.org/wiki/DMAIC): Define, Measure, Analyze, Improve, Control
+
+
+<h2><a name="see">See also</a></h2>
+
+* [Metrics and Performance Measurement System for the Lean Enterprise by Professor Deborah Nightingale](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-852j-integrating-the-lean-enterprise-fall-2005/lecture-notes/12_metrics.pdf)
