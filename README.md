@@ -140,12 +140,12 @@ SMART objectives are:
 * Timely (a.k.a. Time-scoped, Time-boxed, Time-bound)
 
 Maturity model levels:
-* 0. No capability
-* 1. Initial capability
-* 2. Under development; core processes managed; vertical alignment.
-* 3. Defined; core processes integrated; horizontal alignment.
-* 4. Managed; enabling processes integrated; total alignment.
-* 5. Optimizing; processes are holistic.
+* 0 = None, Never, Negligible, Not Applicable
+* 1 = Initial, Informal, Implicit, Irregular, Inconsistent, Individual-usage.
+* 2 = Developing, Describing, Duplicating, Department-usage.
+* 3 = Standardizing, Specifying, Scaling, Service-oriented, Segment-usage
+* 4 = Managing, Measuring, Mainstreaming, Mission-oriented, Mass-usage
+* 5 = Optimizing, Orchestrating, Ongoing, Opportunity-oriented, Organization-usage
 
 Maturity model categories:
 * People
@@ -153,6 +153,18 @@ Maturity model categories:
 * Technology
 * Controls
 * Strategy
+
+TOGAF capabilities:
+* Financial Management
+* Performance Management
+* Service Management
+* Risk Management
+* Resource Management
+* Communications and Stakeholder Management
+* Quality Management
+* Supplier Management
+* Configuration Management
+* Environment Management
 
 Value Stream Mapping (VSM):
 * value-adding times a.k.a. the processes
@@ -196,6 +208,15 @@ Domain Driven Design:
 * [Ubiquitous Language](http://martinfowler.com/bliki/UbiquitousLanguage.html)
 * [Bounded Context](http://martinfowler.com/bliki/BoundedContext.html)
 
+RAID: 
+* Risks
+* Assumptions
+* Issues
+* Dependencies
+
+Interference:
+* [WHy isn't agile working?](https://hackernoon.com/why-isnt-agile-working-d7127af1c552)
+
 
 <h2><a name="lenses-exercise-idea">Lenses - exercise idea</a></h2>
 
@@ -233,6 +254,8 @@ For example, have the team pick one or more of the lenses above, and explore how
 * [Design for Six Sigma (DFSS)](https://en.wikipedia.org/wiki/Design_for_Six_Sigma)
 * [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma)
 * [DMAIC](https://en.wikipedia.org/wiki/DMAIC): Define, Measure, Analyze, Improve, Control
+* [RAID](https://en.wikipedia.org/wiki/RAID): Risks, Assumptions, Issues, Dependencies
+* [TOGAF](https://en.wikipedia.org/wiki/TOGAF): The Open Group Architecture Forum
 
 
 <h2><a name="see">See also</a></h2>
